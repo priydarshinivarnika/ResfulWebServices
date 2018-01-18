@@ -1,3 +1,0 @@
- link for http verbs
-https://www.journaldev.com/2552/spring-rest-exam.ple-tutorial-spring-restful-web-services
-https://howtodoinjava.com/angularjs/angularjs-http-restful-api-example/#client-code
